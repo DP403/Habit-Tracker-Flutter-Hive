@@ -3,6 +3,12 @@
 A Flutter-based application designed to help users track and visualize their daily habits
 effectively. With this app, users can build good habits, break bad ones, and monitor their progress
 over time with a visually appealing heatmap.
+# Habit Tracker App
+
+**⚠️ IMPORTANT NOTE:** This repository started as a publicly available project template.
+
+Developed, maintained, and configured for modern Flutter versions by **@DP403**.
+Original project template and core UI created by **@OmarZen**.
 
 ## Features
 
